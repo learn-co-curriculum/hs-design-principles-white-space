@@ -1,9 +1,4 @@
----
-tags: kids, web design, intro, design principles, white space
-language: html, css
-level: 1
-type: resources
----
+
 
 ##Design Principles - White Space
 
